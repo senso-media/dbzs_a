@@ -1,0 +1,382 @@
+[ 
+{
+       "id": 10001,
+       "event_name": "Vesztesek ligája 4. forduló",
+       "event_date": 1584319909 ,
+       "event_location": "Győr",
+       "away_squad_name": "Másik csapat",
+       "away_squad_name": "MSK FC",
+       "away_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000018/46627528-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+       "away_squad_score": 0,
+       "home_squad_name": "Vesztes Csapat",
+       "home_squad_short_name": "LOSERS",
+       "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+       "home_squad_score": 2,
+       "event_statistics": {
+        "home_squad_goals": 2,
+            "home_squad_total_shots": 4,
+            "home_squad_penalty": 0,
+            "home_squad_corners": 0,
+            "home_squad_yellow_cards": 0,
+            "home_squad_red_cards": 0,
+            "away_squad_goals": 0,
+            "away_squad_total_shots": 3,
+            "away_squad_penalty": 0,
+            "away_squad_corners": 0,
+            "away_squad_yellow_cards": 0,
+            "away_squad_red_cards": 0
+       },
+       "event_commentaries": [
+       {
+                "time": "90+3",
+                "minute": 90,
+                "over_minute": 3,
+                "type": "normal",
+                "comment": "The End",
+                "image": ""
+            },
+            {
+                "time": "90+1",
+                "minute": 90,
+                "over_minute": 1,
+                "type": "normal",
+                "comment": "Mindjárt vége",
+                "image": ""
+            },
+            {
+                "time": "77",
+                "minute": 77,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/full_hd2__2020_03_10_09_29_30_670.png"
+            },
+            {
+                "time": "76",
+                "minute": 76,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "1 - 2 -3 ",
+                "image": ""
+            },
+            {
+                "time": "75",
+                "minute": 75,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/1080_1920__2020_03_09_09_33_34_63.png"
+            },
+            {
+                "time": "74",
+                "minute": 74,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "123",
+                "image": ""
+            },
+            {
+                "time": "71",
+                "minute": 71,
+                "over_minute": null,
+                "type": "red_card",
+                "comment": "SFSFA",
+                "image": ""
+            },
+            {
+                "time": "65",
+                "minute": 65,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "11",
+                "image": ""
+            },
+            {
+                "time": "55",
+                "minute": 55,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/1920_1080__2020_03_09_08_50_55_69.png"
+            },
+            {
+                "time": "50",
+                "minute": 50,
+                "over_minute": null,
+                "type": "red_card",
+                "comment": "1",
+                "image": ""
+            },
+            {
+                "time": "46",
+                "minute": 46,
+                "over_minute": null,
+                "type": "substitution",
+                "comment": "123",
+                "image": ""
+            },
+            {
+                "time": "45+3",
+                "minute": 45,
+                "over_minute": 3,
+                "type": "yellow_card",
+                "comment": "Yellow",
+                "image": ""
+            },
+            {
+                "time": "45+1",
+                "minute": 45,
+                "over_minute": 1,
+                "type": "goal",
+                "comment": "Goal",
+                "image": ""
+            },
+            {
+                "time": "30",
+                "minute": 30,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "min 30 data",
+                "image": ""
+            },
+            {
+                "time": "22",
+                "minute": 22,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "22",
+                "image": ""
+            },
+            {
+                "time": "5",
+                "minute": 5,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "Goal",
+                "image": ""
+            },
+            {
+                "time": "5",
+                "minute": 5,
+                "over_minute": null,
+                "type": "red_card",
+                "comment": "hello",
+                "image": ""
+            },
+            {
+                "time": "1",
+                "minute": 1,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "1",
+                "image": ""
+            },
+            {
+                "time": "-10",
+                "minute": -10,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/test__2020_03_10_09_30_27_313.png"
+            },
+            {
+                "time": "-20",
+                "minute": -20,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "Soon",
+                "image": ""
+            }
+       ]
+ },
+{
+       "id": 10000,
+       "event_name": "Vesztesek ligája 4. forduló",
+       "event_date": 1532319909 ,
+       "event_location": "Győr",
+       "home_squad_name": "Vesztes Csapat",
+       "home_squad_short_name": "LOSERS",
+       "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+       "home_squad_score": 2,
+       "away_squad_name": "KFC csapat",
+       "away_squad_name": " K FC",
+       "away_squad_logo": "https://nyugdijtobblet.hu/wp-content/uploads/2017/12/1024px-KFC_logo.svg_.png",
+       "away_squad_score": 0,
+       "event_statistics": {
+        "home_squad_goals": 2,
+            "home_squad_total_shots": 4,
+            "home_squad_penalty": 0,
+            "home_squad_corners": 0,
+            "home_squad_yellow_cards": 0,
+            "home_squad_red_cards": 0,
+            "away_squad_goals": 0,
+            "away_squad_total_shots": 3,
+            "away_squad_penalty": 0,
+            "away_squad_corners": 0,
+            "away_squad_yellow_cards": 0,
+            "away_squad_red_cards": 0
+       },
+       "event_commentaries": [
+       {
+                "time": "90+3",
+                "minute": 90,
+                "over_minute": 3,
+                "type": "normal",
+                "comment": "The End",
+                "image": ""
+            },
+            {
+                "time": "90+1",
+                "minute": 90,
+                "over_minute": 1,
+                "type": "normal",
+                "comment": "Mindjárt vége",
+                "image": ""
+            },
+            {
+                "time": "77",
+                "minute": 77,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/full_hd2__2020_03_10_09_29_30_670.png"
+            },
+            {
+                "time": "76",
+                "minute": 76,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "1 - 2 -3 ",
+                "image": ""
+            },
+            {
+                "time": "75",
+                "minute": 75,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/1080_1920__2020_03_09_09_33_34_63.png"
+            },
+            {
+                "time": "74",
+                "minute": 74,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "123",
+                "image": ""
+            },
+            {
+                "time": "71",
+                "minute": 71,
+                "over_minute": null,
+                "type": "red_card",
+                "comment": "SFSFA",
+                "image": ""
+            },
+            {
+                "time": "65",
+                "minute": 65,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "11",
+                "image": ""
+            },
+            {
+                "time": "55",
+                "minute": 55,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/1920_1080__2020_03_09_08_50_55_69.png"
+            },
+            {
+                "time": "50",
+                "minute": 50,
+                "over_minute": null,
+                "type": "red_card",
+                "comment": "1",
+                "image": ""
+            },
+            {
+                "time": "46",
+                "minute": 46,
+                "over_minute": null,
+                "type": "substitution",
+                "comment": "123",
+                "image": ""
+            },
+            {
+                "time": "45+3",
+                "minute": 45,
+                "over_minute": 3,
+                "type": "yellow_card",
+                "comment": "Yellow",
+                "image": ""
+            },
+            {
+                "time": "45+1",
+                "minute": 45,
+                "over_minute": 1,
+                "type": "goal",
+                "comment": "Goal",
+                "image": ""
+            },
+            {
+                "time": "30",
+                "minute": 30,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "min 30 data",
+                "image": ""
+            },
+            {
+                "time": "22",
+                "minute": 22,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "22",
+                "image": ""
+            },
+            {
+                "time": "5",
+                "minute": 5,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "Goal",
+                "image": ""
+            },
+            {
+                "time": "5",
+                "minute": 5,
+                "over_minute": null,
+                "type": "red_card",
+                "comment": "hello",
+                "image": ""
+            },
+            {
+                "time": "1",
+                "minute": 1,
+                "over_minute": null,
+                "type": "goal",
+                "comment": "1",
+                "image": ""
+            },
+            {
+                "time": "-10",
+                "minute": -10,
+                "over_minute": null,
+                "type": "image",
+                "comment": null,
+                "image": "https://nkosijek.sensomedia.hu/uploads/images/test__2020_03_10_09_30_27_313.png"
+            },
+            {
+                "time": "-20",
+                "minute": -20,
+                "over_minute": null,
+                "type": "normal",
+                "comment": "Soon",
+                "image": ""
+            }
+       ]
+ }
+]
