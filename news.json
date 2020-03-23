@@ -1,19 +1,38 @@
 [
-{
-"id":1000,
+ {
+"id":1003,
  "title": "Az MLSZ felfüggesztette a bajnokságokat",
             "lead": "Az egészség a legfontosabb – leáll az NB I is",
             "content": "<p><span style=\"background-color: initial; text-align: initial;\">2020. március 16., 13:34: a Magyar Labdarúgó Szövetség a Facebook-oldalán és Twitter-csatornáján keresztül jelentette be, hogy <em>„az MLSZ Elnöksége – a hatóságok döntésével összhangban – azonnali hatállyal felfüggeszti a szövetség valamennyi szervezett versenyprogramját és képzési eseményét, átmeneti időre, újabb döntéséig.&nbsp;</em></span><em>A felfüggesztés idejére mindennemű személyes részvételű sporttevékenység (pl. edzés) szüneteltetése is javasolt. Az Elnökség felhívja a sportszervezeteket a sportolók és sportszakemberek otthon tartózkodására vonatkozó előírások megalkotására és betartására.”</em></p><p>A szövetség szombaton már bejelentette, hogy a hétfőn életbe lépett új oktatási rend nyomán március 16-tól határozatlan időre felfüggeszti az összes utánpótlás-korosztályú bajnokságot, most pedig a felnőttsorozatok is leállnak.</p><p><em>„A Magyar Labdarúgó Szövetség elnöksége a mai napon azonnali hatállyal felfüggesztette valamennyi labdarúgó-mérkőzés lejátszását, beleértve az NB I-es mérkőzéseket is. Azt kértük a kluboktól, hogy ebben az időszakban tekintsenek el az edzések megtartásától és látogatásától, teremtsék meg a lehetőségét annak, hogy a játékosok, stábtagok otthon maradhassanak</em> – mondta a MLSZ közösségi oldalain elérhető videóban Sipos Jenő, a szövetség szóvivője, aki arról is beszélt, hogy az elmúlt napokban már több nagylétszámú rendezvényt lemondott az MLSZ. – <em>Az egészség megóvása a legfontosabb, ezért születtek ezek a döntések, és reméljük, hogy hozzájárulunk ahhoz, hogy a járvány ne terjedjen tovább. Ebben kérjük a megértését a játékosoknak, az edzőnek és természetesen a szurkolóknak.”</em></p><p><span class=\"fr-video fr-dvb fr-draggable\" contenteditable=\"false\" draggable=\"true\"><iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmagyarlabdarugoszovetseg%2Fvideos%2F520125925601324%2F&show_text=0&width=100%\" width=\"100%\" height=\"315\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"true\"></iframe></span><br></p>",
             "image": "https://depo.honvedfc.hu/web/images/news/20190731-hirkep_valogatott.jpg",
-            "upload_date": "2020-03-16 14:01:00"
+            "upload_date": "2020-03-16 14:01:00",
+            "type":0
 },
 {
-  "id": 1001,
+  "id": 1002,
+            "title": "Nem utaznak el",
+            "lead": "\nA FIFA hivatalos levélben arról adott tájékoztatást, hogy az egészségügyi helyzetre való tekintettel a klubok nem kötelesek elengedni játékosaikat a válogatottakba. \n",
+            "content": "",
+           "image": "http://www.molfehervarfc.hu/_files/news/1080x608/26405_VG5uO8Caf4.jpg",
+        "upload_date": "2020-03-14 09:18:48",
+            "type":1
+},
+{
+"id":1001,
+ "title": "Az MLSZ",
+            "lead": "Az egészség a legfontosabb – leáll az NB I is",
+            "content": "",
+          "image": "https://depo.honvedfc.hu/web/images/news/20190731-hirkep_valogatott.jpg",
+            "upload_date": "2020-03-16 14:01:00",
+            "type":1
+},
+{
+  "id": 1000,
             "title": "Nem utaznak el a magyar csapat játékosai a válogatottakba",
             "lead": "\nA FIFA hivatalos levélben arról adott tájékoztatást, hogy az egészségügyi helyzetre való tekintettel a klubok nem kötelesek elengedni játékosaikat a válogatottakba. \n",
             "content": "<span style=\"color:white; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;\"><p>A FIFA március 13-án hivatalos levélben arról adott tájékoztatást, hogy az Egészségügyi Világszervezet által világjárványnak minősített koronavírus miatt a klubok nem kötelesek elengedni válogatott labdarúgóikat a válogatottakba, illetve maguk a játékosok is megtagadhatják azt, hogy részt vegyenek a válogatottjuk programján.</p>\n<p>Ahogy arról péntek este már <a href=\"https://www.molfehervarfc.hu/2020/03/13/nem-rendezik-meg-marcius-26-an-a-bulgaria-magyarorszag-merkozest.html\">beszámoltunk</a>, a bolgár - magyar válogatott meccset hivatalosan is elhalasztották. Hasonló intézkedésre egyelőre nem került sor a többi érintett válogatott esetében, ahogy azt korábban már <a href=\"https://www.molfehervarfc.hu/2020/03/10/stopira,-hodzic,-nikolov-es-musliu-is-meghivot-kapott-hazaja-valogatottjaba.html\">jeleztük</a> a Vidiből Stopira, Armin Hodzic, Boban Nikolov és Visar Musliu is kapott meghívót hazája válogatottjába. Klubunk azonban nem engedi el a játékosokat, hiszen ebben a helyzetben az egészség védelme és a megfelelő megelőző intézkedések mindennél fontosabbak.</p>\n<p><a href=\"http://www.molfehervarfc.hu//index.php?bniid=159&amp;link=https://mol.hu/hu/\"><img class=\"mobileFriendly\" src=\"http://www.molfehervarfc.hu/_files/banner_items/1/200.png\" style=\"width:100%; height:auto;\"></a></p></span>",
             "image": "http://www.molfehervarfc.hu/_files/news/1080x608/26405_VG5uO8Caf4.jpg",
-        "upload_date": "2020-03-14 09:18:48"
-
+        "upload_date": "2020-03-14 09:18:48",
+            "type":0
 }
 ]
