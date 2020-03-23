@@ -4,27 +4,27 @@
 "name": "uzoma eke",
 "post": {
 "post_d": 0, 
-"role": 0, // 0 = player, 1 = staff
+"role": 0, 
 "post_name": "kapus", 
 },
-“image”: “https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695"
+"image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695"
 "number": 10,
 "attributes": [
 { 
-“display_name”:”testsúly”, 
-“ display_value”:”77 kg"
+"display_name":"testsúly", 
+"display_value":"77 kg"
 },
 { 
-"display_name":”magasság”, 
-"display_value”:”180 cm"
+"display_name":"magasság", 
+"display_value":"180 cm"
 },
 { 
-"display_name”:”születési hely”, 
-"display_value”:”Sao Paulo"
+"display_name":"születési hely", 
+"display_value":"Sao Paulo"
 },
 { 
-"display_name”:”születési dátum”, 
-"display_value”:”1990.10.02"
+"display_name":"születési dátum", 
+"display_value":"1990.10.02"
 },
 ]
 },
@@ -33,27 +33,27 @@
 "name": "Kovács János",
 "post": {
 "post_id": 1, 
-"role": 0, // 0 = player, 1 = staff
+"role": 0,
 "post_name": "védő", 
 },
-“image”: “https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg"
+"image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg"
 "number": 11,
 "attributes": [
 { 
-“display_name”:”testsúly”, 
-“display_value”:”72 kg"
+"display_name":"testsúly", 
+"display_value":"72 kg"
 },
 { 
-"display_name":”magasság”, 
-"display_value”:”183 cm"
+"display_name":"magasság", 
+"display_value":"183 cm"
 },
 { 
-"display_name”:”lejátszott meccsek”, 
-"display_value”:”112"
+"display_name":"lejátszott meccsek", 
+"display_value":"112"
 },
 { 
-"display_name”:”születési dátum”, 
-"display_value”:”1923.12.23"
+"display_name":"születési dátum", 
+"display_value":"1923.12.23"
 },
 ]
 }
