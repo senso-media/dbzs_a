@@ -4,13 +4,13 @@
             "title": "Paks - Honvéd FC",
             "season": "2019-2020",
             "photo": "https://depo.honvedfc.hu/fototar/2019-2020/20200307_paks-honved-fc/20200307_paks-honved-fc_001.jpg",
-            "created_at": "2020-03-10 00:00:00"
+            "date": 1555041900
         },
  {
             "id": 244,
             "title": "Honvéd FC - PFLA",
             "season": "2019-2020",
             "photo": "https://depo.honvedfc.hu/fototar/2019-2020/20200222_honved-fc-pfla/20200222_honved-fc-pafc_001.jpg",
-            "created_at": "2020-02-24 00:00:00"
+            "date": 1535041900
         }
 ]
