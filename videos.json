@@ -7,7 +7,8 @@
             "subtitle": null,
             "facebook": null,
             "description": "teszt 1",
-            "thumbnail": "http://www.molfehervarfc.hu/_files/video_gallery/images/original/19/3893-908.jpg"
+            "thumbnail": "http://www.molfehervarfc.hu/_files/video_gallery/images/original/19/3893-908.jpg",
+            "date": 1585041225275
         },
 {
             "id": 5000,
@@ -17,7 +18,8 @@
             "subtitle": null,
             "facebook": null,
             "description": "Teszt 0",
-            "thumbnail": "http://www.molfehervarfc.hu/_files/video_gallery/images/original/19/3890-8247.jpg" 
+            "thumbnail": "http://www.molfehervarfc.hu/_files/video_gallery/images/original/19/3890-8247.jpg",
+            "date": 1583041235275
         },
 {
             "id": 4999,
@@ -27,6 +29,7 @@
             "subtitle": null,
             "facebook": "https://www.facebook.com/honvedfc/videos/195994291833956/",
             "description": "Teszt -1",
-            "thumbnail": "https://scontent.fbud5-1.fna.fbcdn.net/v/t15.5256-10/s640x640/83220971_196002598499792_4402168017555816448_n.jpg?_nc_cat=101&_nc_sid=ad6a45&_nc_ohc=DmvFDR5WpMkAX99NUbC&_nc_ht=scontent.fbud5-1.fna&_nc_tp=7&oh=7dfa0be57c10e0641fea77843c11c1dc&oe=5E9ABE90" 
+            "thumbnail": "https://scontent.fbud5-1.fna.fbcdn.net/v/t15.5256-10/s640x640/83220971_196002598499792_4402168017555816448_n.jpg?_nc_cat=101&_nc_sid=ad6a45&_nc_ohc=DmvFDR5WpMkAX99NUbC&_nc_ht=scontent.fbud5-1.fna&_nc_tp=7&oh=7dfa0be57c10e0641fea77843c11c1dc&oe=5E9ABE90",
+            "date": 1515041235275 
         }
 ]
