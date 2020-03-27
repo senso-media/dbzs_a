@@ -1,29 +1,28 @@
 [ 
 {
-       id: 10002,
-       event_name: "Vesztesek ligája 5. forduló",
-       event_date: 1584619909 ,
-       event_location: "Kecskemét",
-       event_ticket: "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
-       home_squad_name: "Másik csapat",
-       home_squad_short_name: "MSK FC",
-       home_squad_logo: "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000018/46627528-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
-       away_squad_ame: "Vesztes Csapat",
-       away_squad_short_bame: "LOSERS",
-       away_squart_logo: "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg"
+       "id": 10002,
+       "event_name": "Vesztesek ligája 5. forduló",
+       "event_date": 1584619909,
+       "event_location": "Kecskemét",
+       "event_ticket": "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
+       "home_squad_name": "Másik csapat",
+       "home_squad_short_name": "MSK FC",
+       "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000018/46627528-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+       "away_squad_name": "Vesztes Csapat",
+       "away_squad_short_name": "LOSERS",
+       "away_squart_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg"
  },
 {
  id: 10003,
-       event_name: "Vesztesek ligája 6. forduló",
-       event_date: 1584719909 ,
-       event_location: "Budaörs",
-       event_ticket: "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
-       home_squad_name: "Győztes csapat",
-       home_squad_short_name: "WINNERS",
-       home_squad_logo: "https://previews.123rf.com/images/kitipol
-kitipol1510/kitipol151000040/46627761-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
-       away_squad_name: "Vesztes Csapat",
-       away_squad_short_name: "LOSERS",
-       away_squad_logo: "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg"
+       "event_name": "Vesztesek ligája 6. forduló",
+       "event_date": 1584719909,
+       "event_location": "Budaörs",
+       "event_ticket": "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
+       "home_squad_name": "Győztes csapat",
+      "home_squad_short_name": "WINNERS",
+       "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000040/46627761-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+       "away_squad_name": "Vesztes Csapat",
+       "away_squad_short_name": "LOSERS",
+       "away_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg"
  }
 ]
