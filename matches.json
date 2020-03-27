@@ -6,11 +6,11 @@
        "event_location": "Kecskemét",
        "event_ticket": "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
        "home_squad_name": "Másik csapat",
-       "home_squad_short_name": "MSK FC",
-       "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000018/46627528-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+       "home_squad_short_name": "YELLOW",
+       "home_squad_logo": "https://image.freepik.com/free-vector/soccer-logo-sport-logo-football-logo_7085-195.jpg",
        "away_squad_name": "Vesztes Csapat",
-       "away_squad_short_name": "LOSERS",
-       "away_squart_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg"
+       "away_squad_short_name": "GREEN",
+       "away_squart_logo": "https://www.logolynx.com/images/logolynx/0e/0ea7e0e283a0df67821005a5102b6315.png"
  },
 {
  "id": 10003,
@@ -19,10 +19,10 @@
        "event_location": "Budaörs",
        "event_ticket": "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
        "home_squad_name": "Győztes csapat",
-      "home_squad_short_name": "WINNERS",
-       "home_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000040/46627761-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg",
+      "home_squad_short_name": "BLUE",
+       "home_squad_logo": "https://image.freepik.com/free-vector/king-football-logo_21010-8.jpg",
        "away_squad_name": "Vesztes Csapat",
-       "away_squad_short_name": "LOSERS",
-       "away_squad_logo": "https://previews.123rf.com/images/kitipol/kitipol1510/kitipol151000012/46627439-football-badge-logo-template-design-soccer-team-vector-illuatration.jpg"
+       "away_squad_short_name": "GREEN",
+       "away_squad_logo": "https://www.logolynx.com/images/logolynx/0e/0ea7e0e283a0df67821005a5102b6315.png"
  }
 ]
