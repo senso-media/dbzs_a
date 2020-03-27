@@ -31,12 +31,12 @@
        "event_date": 1605278911000,
        "event_location": "Budapest, Puskás Stadion",
        "event_ticket": "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
-       "home_squad_name": "Sárga csapat",
-       "home_squad_short_name": "YELLOW",
-       "home_squad_logo": "https://secure.webtoolhub.com/static/resources/icons/set109/cf8d02b2.png",
-       "away_squad_name": "Zöld Csapat",
-       "away_squad_short_name": "GREEN",
-       "away_squad_logo": "https://lh4.googleusercontent.com/-iMlwuLOjDFM/UbaHKgL_lpI/AAAAAAAABkE/yGQlm4UEdto/s800/fblq_1_256.png"
+       "away_squad_name": "Sárga csapat",
+       "away_squad_short_name": "YELLOW",
+       "away_squad_logo": "https://secure.webtoolhub.com/static/resources/icons/set109/cf8d02b2.png",
+       "home_squad_name": "Zöld Csapat",
+       "home_squad_short_name": "GREEN",
+       "home_squad_logo": "https://lh4.googleusercontent.com/-iMlwuLOjDFM/UbaHKgL_lpI/AAAAAAAABkE/yGQlm4UEdto/s800/fblq_1_256.png"
  },
 {
  "id": 10005,
@@ -44,12 +44,12 @@
        "event_date": 1615278911000,
        "event_location": "Debrecen, DVTK Stadion",
        "event_ticket": "https://i0.wp.com/templateparadise.com/wp-content/uploads/2019/04/Party-Event-Ticket-Design-Template-4.jpg",
-       "home_squad_name": "Piros csapat",
-      "home_squad_short_name": "RED",
-       "home_squad_logo": "https://upload.wikimedia.org/wikipedia/en/a/ae/Kidderminster_Harriers_F.C._logo.png",
-       "away_squad_name": "Zöld Csapat",
-       "away_squad_short_name": "GREEN",
-       "away_squad_logo": "https://lh4.googleusercontent.com/-iMlwuLOjDFM/UbaHKgL_lpI/AAAAAAAABkE/yGQlm4UEdto/s800/fblq_1_256.png"
+       "away_squad_name": "Piros csapat",
+      "away_squad_short_name": "RED",
+       "away_squad_logo": "https://upload.wikimedia.org/wikipedia/en/a/ae/Kidderminster_Harriers_F.C._logo.png",
+       "home_squad_name": "Zöld Csapat",
+       "home_squad_short_name": "GREEN",
+       "home_squad_logo": "https://lh4.googleusercontent.com/-iMlwuLOjDFM/UbaHKgL_lpI/AAAAAAAABkE/yGQlm4UEdto/s800/fblq_1_256.png"
  },
        {
        "id": 10006,
