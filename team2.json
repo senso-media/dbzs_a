@@ -1,9 +1,10 @@
+
 [
   {
     "id": 100,
     "name": "uzoma eke",
     "post": {
-      "post_d": 0,
+      "post_id": 0,
       "role": 0,
       "post_name": "kapus"
     },
@@ -58,15 +59,15 @@
     ]
   },
   {
-    "id": 100,
-    "name": "uzoma eke",
+    "id": 102,
+    "name": "eke uzoma",
     "post": {
-      "post_d": 0,
+      "post_id": 0,
       "role": 0,
       "post_name": "kapus"
     },
     "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
-    "number": 10,
+    "number": 19,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -87,15 +88,15 @@
     ]
   },
   {
-    "id": 101,
-    "name": "Kovács János",
+    "id": 103,
+    "name": "Kovács Béla",
     "post": {
       "post_id": 1,
       "role": 0,
       "post_name": "védő"
     },
     "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
-    "number": 11,
+    "number": 17,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -116,15 +117,15 @@
     ]
   },
   {
-    "id": 100,
-    "name": "uzoma eke",
+    "id": 104,
+    "name": "mac niba",
     "post": {
-      "post_d": 0,
+      "post_id": 2,
       "role": 0,
-      "post_name": "kapus"
+      "post_name": "középpályás"
     },
     "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
-    "number": 10,
+    "number": 88,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -145,15 +146,15 @@
     ]
   },
   {
-    "id": 101,
-    "name": "Kovács János",
+    "id": 105,
+    "name": "Kiss Ádám",
     "post": {
-      "post_id": 1,
+      "post_id": 2,
       "role": 0,
-      "post_name": "védő"
+      "post_name": "középpályás"
     },
     "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
-    "number": 11,
+    "number": 74,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -174,12 +175,12 @@
     ]
   },
   {
-    "id": 100,
-    "name": "uzoma eke",
+    "id": 106,
+    "name": "Tóth Benedek",
     "post": {
-      "post_d": 0,
+      "post_id": 3,
       "role": 0,
-      "post_name": "kapus"
+      "post_name": "támadó"
     },
     "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
     "number": 10,
@@ -203,15 +204,15 @@
     ]
   },
   {
-    "id": 101,
-    "name": "Kovács János",
+    "id": 107,
+    "name": "Dr Kalapos Lajos",
     "post": {
-      "post_id": 1,
-      "role": 0,
-      "post_name": "védő"
+      "post_id": 4,
+      "role": 1,
+      "post_name": "Vezetőedző"
     },
     "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
-    "number": 11,
+    "number": 0,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -232,19 +233,19 @@
     ]
   },
   {
-    "id": 100,
-    "name": "uzoma eke",
+    "id": 108,
+    "name": "Dr Tóth Cecília",
     "post": {
-      "post_d": 0,
-      "role": 0,
-      "post_name": "kapus"
+      "post_id": 6,
+      "role": 1,
+      "post_name": "Csapatorvos"
     },
     "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
-    "number": 10,
+    "number": 0,
     "attributes": [
       {
         "display_name": "testsúly",
-        "display_value": "77 kg"
+        "display_value": "59 kg"
       },
       {
         "display_name": "magasság",
@@ -261,15 +262,15 @@
     ]
   },
   {
-    "id": 101,
-    "name": "Kovács János",
+    "id": 109,
+    "name": "Kiss Endre",
     "post": {
-      "post_id": 1,
-      "role": 0,
-      "post_name": "védő"
+      "post_id": 4,
+      "role": 1,
+      "post_name": "Segédedző"
     },
     "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
-    "number": 11,
+    "number": 0,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -290,15 +291,15 @@
     ]
   },
   {
-    "id": 100,
-    "name": "uzoma eke",
+    "id": 110,
+    "name": "Török Ibolya",
     "post": {
-      "post_d": 0,
-      "role": 0,
-      "post_name": "kapus"
+      "post_id": 7,
+      "role": 1,
+      "post_name": "Marketingigazgató"
     },
     "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
-    "number": 10,
+    "number": 0,
     "attributes": [
       {
         "display_name": "testsúly",
@@ -319,15 +320,15 @@
     ]
   },
   {
-    "id": 101,
-    "name": "Kovács János",
+    "id": 111,
+    "name": "Kiss Elek",
     "post": {
-      "post_id": 1,
-      "role": 0,
-      "post_name": "védő"
+      "post_id": 9,
+      "role": 1,
+      "post_name": "Fotós"
     },
     "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
-    "number": 11,
+    "number": 0,
     "attributes": [
       {
         "display_name": "testsúly",
