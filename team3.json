@@ -1,0 +1,321 @@
+[
+  {
+    "group_id": 0,
+    "group_name": "Kapusok",
+    "group_order": 0,
+    "group_members": [
+      {
+        "id": 100,
+        "name": "Lajos Gábor",
+        "post_name": "kapus",
+        "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
+        "number": 10,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "77 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "180 cm"
+          },
+          {
+            "display_name": "születési hely",
+            "display_value": "Kiskunfélegyháza"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1990.10.02"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Kiss Árpád",
+        "post_name": "kapus",
+        "image": "https://static.hltv.org//images/playerprofile/bodyshot/compressed/15144.png",
+        "number": 19,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "75 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "170 cm"
+          },
+          {
+            "display_name": "születési hely",
+            "display_value": "Temesvár"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1989.10.02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": 1,
+    "group_name": "Védők",
+    "group_order": 1,
+    "group_members": [
+      {
+        "id": 101,
+        "name": "Kovács János",
+        "post_name": "védő",
+        "image": "https://i.pinimg.com/originals/2c/3c/5c/2c3c5cfdd2b2e964e693b97989dce930.png",
+        "number": 11,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "72 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "183 cm"
+          },
+          {
+            "display_name": "lejátszott meccsek",
+            "display_value": "112"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1983.12.23"
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Kovács Béla",
+        "post_name": "védő",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRPnMXmvZ50QktlH_8UPLJQkJ-phXbjOgm1idJBi7MUM2fdObt",
+        "number": 17,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "72 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "183 cm"
+          },
+          {
+            "display_name": "lejátszott meccsek",
+            "display_value": "112"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1923.12.23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": 3,
+    "group_name": "Támadók",
+    "group_order": 3,
+    "group_members": [
+      {
+        "id": 106,
+        "name": "Tóth Benedek",
+        "post_name": "támadó",
+        "image": "http://www.thefa.com/-/media/www-thefa-com/images/england/men-senior/player-profiles/mason-mount/mason-mount-723.ashx",
+        "number": 10,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "77 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "180 cm"
+          },
+          {
+            "display_name": "születési hely",
+            "display_value": "Sao Paulo"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1990.10.02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": 2,
+    "group_name": "Középpályások",
+    "group_order": 2,
+    "group_members": [
+      {
+        "id": 104,
+        "name": "Kelet Tamás",
+        "post_name": "középpályás",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKk-ej43A0Pq-hwKpWrhEqAD1j2z696GA_ozXonwvitNDziNRt",
+        "number": 88,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "70 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "186 cm"
+          },
+          {
+            "display_name": "születési hely",
+            "display_value": "Marosvásárhely"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1992.10.02"
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Kiss Elek",
+        "post_name": "középpályás",
+        "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
+        "number": 74,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "55 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "165 cm"
+          },
+          {
+            "display_name": "lejátszott meccsek",
+            "display_value": "102"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1993.12.23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group_id": 100,
+    "group_name": "Szakmai stáb",
+    "group_order": 100,
+    "group_members": [
+      {
+        "id": 107,
+        "name": "Dr Kalapos Lajos",
+        "post_name": "Vezetőedző",
+        "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
+        "number": 0,
+        "attributes": [
+          {
+            "display_name": "Születési dátum",
+            "display_value": "1967.02.12"
+          },
+          {
+            "display_name": "Meccsek száma",
+            "display_value": "19"
+          },
+          {
+            "display_name": "Győztes meccsek száma",
+            "display_value": "12"
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Dr Tóth Cecília",
+        "post_name": "Csapatorvos",
+        "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
+        "number": 0,
+        "attributes": [
+          {
+            "display_name": "Tagság",
+            "display_value": "2018"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1990.10.02"
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Kiss Endre",
+        "post": {
+          "post_id": 4,
+          "role": 1,
+          "post_name": "Segédedző"
+        },
+        "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
+        "number": 0,
+        "attributes": [
+          {
+            "display_name": "testsúly",
+            "display_value": "72 kg"
+          },
+          {
+            "display_name": "magasság",
+            "display_value": "183 cm"
+          },
+          {
+            "display_name": "lejátszott meccsek",
+            "display_value": "112"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1923.12.23"
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Török Ibolya",
+        "post_name": "Marketingigazgató",
+        "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
+        "number": 0,
+        "attributes": [
+          {
+            "display_name": "születési hely",
+            "display_value": "Sao Paulo"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1990.10.02"
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "name": "Nagy Éva",
+        "post_name": "Fotós",
+        "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
+        "number": 0,
+        "attributes": [
+          {
+            "display_name": "Tagság",
+            "display_value": "2012"
+          },
+          {
+            "display_name": "Kedvenc étel",
+            "display_value": "Pacalpörkölt"
+          },
+          {
+            "display_name": "Kattintások száma",
+            "display_value": "223315"
+          },
+          {
+            "display_name": "születési dátum",
+            "display_value": "1993.12.23"
+          }
+        ]
+      }
+    ]
+  }
+]
