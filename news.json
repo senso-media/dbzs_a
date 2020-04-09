@@ -38,9 +38,9 @@
             "type":2,
             "video": {
             "id": 5001,
-            "youtube": "https://www.youtube.com/watch?v=fc2jIjilpS8",
-            "youtube_id": "fc2jIjilpS8",
-            "mp4": null,
+            "youtube": null,
+            "youtube_id": null,
+            "mp4": "http://www.molfehervarfc.hu/_files/video_gallery/videos/19/3890.mp4",
             "subtitle": null,
             "facebook": null,
             "description": "teszt 1",
