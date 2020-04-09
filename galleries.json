@@ -12,5 +12,40 @@
             "season": "2019-2020",
             "photo": "https://depo.honvedfc.hu/fototar/2019-2020/20200222_honved-fc-pfla/20200222_honved-fc-pafc_001.jpg",
             "date": 1535041900
+        },
+            {
+            "id": 243,
+            "title": "Összetartunk",
+            "season": "2019-2020",
+            "photo": "https://www.fcbarcelona.com/photo-resources/2019/12/30/aacc3bb6-e728-4cca-bb18-ee9143aacda5/mini_SSCNapoli-FCBarcelona0-4TornadaLaLiga-SerieACup2019_pic_2019-08-10napoles-barcelona82.jpg?width=1200&height=750",
+            "date": 1535041900
+        },
+            {
+            "id": 242,
+            "title": "Kapusedzés",
+            "season": "2019-2020",
+            "photo": "https://i.ytimg.com/vi/6dH2YbAioDE/maxresdefault.jpg",
+            "date": 1535041900
+        },
+            {
+            "id": 241,
+            "title": "Bajnokcsapat",
+            "season": "2019-2020",
+            "photo": "https://as01.epimg.net/en/imagenes/2020/03/21/football/1584749843_530627_1584749914_noticia_normal_recorte1.jpg",
+            "date": 1535041900
+        },
+            {
+            "id": 240,
+            "title": "Meccs előtti lazítás",
+            "season": "2019-2020",
+            "photo": "https://i.ytimg.com/vi/BQg4chdgCVM/maxresdefault.jpg",
+            "date": 1535041900
+        },
+            {
+            "id": 239,
+            "title": "Átlagos szerdai edzés",
+            "season": "2019-2020",
+            "photo": "https://i.ytimg.com/vi/N4N-Ad8LTh4/maxresdefault.jpg",
+            "date": 1535041900
         }
 ]
