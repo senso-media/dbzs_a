@@ -4,7 +4,8 @@
 "image": "https://i.ytimg.com/vi/N4N-Ad8LTh4/maxresdefault.jpg",
 "birth_date": null,
 "nationality": {
-"nationality_id": 0,
-"nationality_name": "magyar" 
+  "id": 2,
+"country": "Szerbia",
+"nationality": "szerb"
 }
 }
