@@ -23,11 +23,11 @@
         },
 {
             "id": 4999,
-            "youtube": null,
-            "youtube_id": null,
+            "youtube": "https://www.youtube.com/watch?v=_-a3E4igvJA",
+            "youtube_id": "_-a3E4igvJA",
             "mp4": null,
             "subtitle": null,
-            "facebook": "https://www.facebook.com/honvedfc/videos/195994291833956/",
+            "facebook": null,
             "description": "Teszt -1",
             "thumbnail": "https://scontent.fbud5-1.fna.fbcdn.net/v/t15.5256-10/s640x640/83220971_196002598499792_4402168017555816448_n.jpg?_nc_cat=101&_nc_sid=ad6a45&_nc_ohc=DmvFDR5WpMkAX99NUbC&_nc_ht=scontent.fbud5-1.fna&_nc_tp=7&oh=7dfa0be57c10e0641fea77843c11c1dc&oe=5E9ABE90",
             "date": 1515041235275 
