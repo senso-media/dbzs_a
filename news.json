@@ -15,11 +15,17 @@
             "title": "Nem utaznak el",
             "lead": "\nA FIFA hivatalos levélben arról adott tájékoztatást, hogy az egészségügyi helyzetre való tekintettel a klubok nem kötelesek elengedni játékosaikat a válogatottakba. \n",
             "content": "",
-           "image": "http://www.molfehervarfc.hu/_files/news/1080x608/26405_VG5uO8Caf4.jpg",
+           "image": "",
         "upload_date": "2020-03-14 09:18:48",
             "type":1,
             "video": null,
-            "gallery": 
+            "gallery": {
+            "id": 245,
+            "title": "Paks - Honvéd FC",
+            "season": "2019-2020",
+            "photo": "https://depo.honvedfc.hu/fototar/2019-2020/20200307_paks-honved-fc/20200307_paks-honved-fc_001.jpg",
+            "date": 1555041900
+        }
  
 },
 {
