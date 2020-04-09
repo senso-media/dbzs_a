@@ -6,7 +6,8 @@
     "group_members": [
       {
         "id": 100,
-        "name": "Lajos Gábor",
+        "first_name": "Lajos",
+        "last_name": "Gábor",
         "post_name": "kapus",
         "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
         "number": 10,
@@ -31,7 +32,8 @@
       },
       {
         "id": 102,
-        "name": "Kiss Árpád",
+        "first_name": "Kiss",
+        "last_name": "Árpád",
         "post_name": "kapus",
         "image": "https://static.hltv.org//images/playerprofile/bodyshot/compressed/15144.png",
         "number": 19,
@@ -63,7 +65,8 @@
     "group_members": [
       {
         "id": 101,
-        "name": "Kovács János",
+        "first_name": "Kovács",
+        "last_name": "János",
         "post_name": "védő",
         "image": "https://i.pinimg.com/originals/2c/3c/5c/2c3c5cfdd2b2e964e693b97989dce930.png",
         "number": 11,
@@ -88,7 +91,8 @@
       },
       {
         "id": 103,
-        "name": "Kovács Béla",
+        "first_name": "Kováts",
+        "last_name": "Béla",
         "post_name": "védő",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRPnMXmvZ50QktlH_8UPLJQkJ-phXbjOgm1idJBi7MUM2fdObt",
         "number": 17,
@@ -113,7 +117,8 @@
       },
       {
         "id": 123,
-        "name": "Kovács Péter",
+        "first_name": "Kavics",
+        "last_name": "Bence",
         "post_name": "védő",
         "image": "https://i.pinimg.com/originals/2c/3c/5c/2c3c5cfdd2b2e964e693b97989dce930.png",
         "number": 88,
@@ -145,7 +150,8 @@
     "group_members": [
       {
         "id": 106,
-        "name": "Tóth Benedek",
+        "first_name": "Tóth",
+        "last_name": "Benedek",
         "post_name": "támadó",
         "image": "http://www.thefa.com/-/media/www-thefa-com/images/england/men-senior/player-profiles/mason-mount/mason-mount-723.ashx",
         "number": 10,
@@ -177,7 +183,8 @@
     "group_members": [
       {
         "id": 104,
-        "name": "Kelet Tamás",
+        "first_name": "Kelet",
+        "last_name": "Tamás",
         "post_name": "középpályás",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKk-ej43A0Pq-hwKpWrhEqAD1j2z696GA_ozXonwvitNDziNRt",
         "number": 88,
@@ -202,7 +209,8 @@
       },
       {
         "id": 105,
-        "name": "Kiss Elek",
+        "first_name": "Nyugat",
+        "last_name": "Ferenc",
         "post_name": "középpályás",
         "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
         "number": 74,
@@ -234,7 +242,8 @@
     "group_members": [
       {
         "id": 107,
-        "name": "Dr Kalapos Lajos",
+        "first_name": "Dr Kalapos",
+        "last_name": "Lajos",
         "post_name": "Vezetőedző",
         "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
         "number": 0,
@@ -255,9 +264,10 @@
       },
       {
         "id": 108,
-        "name": "Dr Tóth Cecília",
+        "first_name": "Dr Tóth",
+        "last_name": "Cecília",
         "post_name": "Csapatorvos",
-        "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
+        "image": "https://assets.website-files.com/5d7a7429a637b36ea9b85579/5d83f101894d70813fdeb811_IMG1_2.png",
         "number": 0,
         "attributes": [
           {
@@ -272,7 +282,8 @@
       },
       {
         "id": 109,
-        "name": "Kiss Endre",
+        "first_name": "Kiss",
+        "last_name": "Endre",
         "post_name": "Segédedző",
         "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
         "number": 0,
@@ -297,9 +308,10 @@
       },
       {
         "id": 110,
-        "name": "Török Ibolya",
+        "first_name": "Kerekes",
+        "last_name": "Beáta",
         "post_name": "Marketingigazgató",
-        "image": "https://tmssl.akamaized.net//images/portrait/header/43500-1570638501.jpg?lm=1570638695",
+        "image": "https://i.guim.co.uk/img/uploads/2017/10/06/Arwa_Mahdawi,_L.png?width=300&quality=85&auto=format&fit=max&s=83dcb418395722d6b6cf4b70348c3170",
         "number": 0,
         "attributes": [
           {
@@ -314,9 +326,10 @@
       },
       {
         "id": 111,
-        "name": "Nagy Éva",
+        "first_name": "Nagy",
+        "last_name": "Éva",
         "post_name": "Fotós",
-        "image": "https://www.startlap.hu/uploads/2019/01/Emiliano_Sala-e1548851100393-720x415.jpg",
+        "image": "https://eros.mingle2.com/main/resources/assets/alaska-girl-6e19a165f24faa73a32321132dd44461.png",
         "number": 0,
         "attributes": [
           {
