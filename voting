@@ -1,0 +1,107 @@
+{
+            "id": 51,
+            "title": "Ki a legjobb játékos?",
+            "acknowledgeText": "Köszönjük, hogy szavazott",
+            "validFrom": "2020-03-25 12:45:00",
+            "validTo": "2020-07-31 12:45:00",
+            "pictureUrl": "https://24.p3k.hu/app/uploads/sites/23/dodo1010/201709/cikk/313802_dani_alves_psg_gettyimages-1024x681.jpg",
+            "questions": [
+                {
+                    "questionId": 99,
+                    "question": "Ön szerint a 2017/18-as bajnokságban ki érdemelte ki a legjobb játékos címet?",
+                    "userVoted": false,
+                    "answers": [
+                        {
+                            "answerId": 263,
+                            "answer": "Antonio Mance"
+                        },
+                        {
+                            "answerId": 264,
+                            "answer": "Ante Majstorović"
+                        },
+                        {
+                            "answerId": 265,
+                            "answer": "Laszlo Kleinheisler"
+                        },
+                        {
+                            "answerId": 266,
+                            "answer": "Mirko Marić"
+                        },
+                        {
+                            "answerId": 267,
+                            "answer": "Boško Šutalo"
+                        }
+                    ]
+                },
+                {
+                    "questionId": 100,
+                    "question": "Ön szerint a 2018/19-es bajnokságban ki volt a legjobb magyar játékos?",
+                    "userVoted": false,
+                    "answers": [
+                        {
+                            "answerId": 268,
+                            "answer": "Nagy Béla"
+                        },
+                        {
+                            "answerId": 269,
+                            "answer": "Kovács Ferenc"
+                        },
+                        {
+                            "answerId": 270,
+                            "answer": "Kiss Benedek"
+                        },
+                        {
+                            "answerId": 271,
+                            "answer": "Éles Lajos"
+                        },
+                        {
+                            "answerId": 299,
+                            "answer": "András Bence"
+                        }
+                    ]
+                },
+                {
+                    "questionId": 101,
+                    "question": "Ki lesz a legjobb játékos a 2019/20-as bajnokságon?",
+                    "userVoted": false,
+                    "answers": [
+                        {
+                            "answerId": 272,
+                            "answer": "Kováts Béla"
+                        },
+                        {
+                            "answerId": 273,
+                            "answer": "András Bence"
+                        },
+                        {
+                            "answerId": 274,
+                            "answer": "Tamás István"
+                        },
+                        {
+                            "answerId": 275,
+                            "answer": "Kiss Bence"
+                        },
+                        {
+                            "answerId": 276,
+                            "answer": "Kiss Tamás"
+                        },
+                        {
+                            "answerId": 277,
+                            "answer": "Tamás Béla"
+                        },
+                        {
+                            "answerId": 278,
+                            "answer": "Nagy István"
+                        },
+                        {
+                            "answerId": 279,
+                            "answer": "Kormos Ádám"
+                        },
+                         {
+                            "answerId": 280,
+                            "answer": "Piskulic Zoltán"
+                        }
+                    ]
+                }
+            ]
+        }
