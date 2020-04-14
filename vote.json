@@ -1,0 +1,350 @@
+[
+  {
+    "id": 51,
+    "title": "Teszt Szavazás",
+    "acknowledge_text": "Köszönjük",
+    "valid_from": "2020-03-25 12:45:00",
+    "valid_to": "2020-07-31 12:45:00",
+    "picture_url": "https://lh3.googleusercontent.com/proxy/rdbrmT3LOdZuPxJof3VPWS4m6NhOtXwH0IBJBLmKNc3BFP_Pi1Vekn848-kC152dwrym7rjcHk-RXGHXHqfLO9vnuwDABcueTL09AViMANck4Qt1n40AOkL60_88I0385nJNDbzfOMlCtdtuHt_lTHFe",
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "nibh quisque id justo sit amet sapien",
+        "user_voted": true,
+        "answers": [
+          {
+            "answer_id": 1,
+            "answer": "nulla pede ullamcorper augue a suscipit nulla elit"
+          },
+          {
+            "answer_id": 2,
+            "answer": "mauris ullamcorper purus sit amet"
+          },
+          {
+            "answer_id": 3,
+            "answer": "integer tincidunt ante vel"
+          },
+          {
+            "answer_id": 4,
+            "answer": "sit amet eleifend pede libero quis orci nullam molestie"
+          }
+        ]
+      },
+      {
+        "question_id": 2,
+        "question": "at turpis donec posuere metus vitae ipsum aliquam",
+        "user_voted": false,
+        "answers": [
+          {
+            "answer_id": 1,
+            "answer": "nulla pede ullamcorper augue a suscipit nulla elit"
+          },
+          {
+            "answer_id": 2,
+            "answer": "mauris ullamcorper purus sit amet"
+          },
+          {
+            "answer_id": 3,
+            "answer": "integer tincidunt ante vel"
+          },
+          {
+            "answer_id": 4,
+            "answer": "sit amet eleifend pede libero quis orci nullam molestie"
+          }
+        ]
+      },
+      {
+        "question_id": 3,
+        "question": "aliquet ultrices erat tortor",
+        "user_voted": true,
+        "answers": [
+          {
+            "answer_id": 5,
+            "answer": "sit amet nunc viverra dapibus nulla suscipit ligula in lacus"
+          },
+          {
+            "answer_id": 6,
+            "answer": "in felis eu sapien cursus vestibulum proin eu mi"
+          },
+          {
+            "answer_id": 7,
+            "answer": "metus vitae ipsum aliquam non mauris morbi non lectus aliquam"
+          },
+          {
+            "answer_id": 8,
+            "answer": "proin risus praesent lectus vestibulum quam sapien varius ut"
+          },
+          {
+            "answer_id": 9,
+            "answer": "aliquam non mauris morbi non lectus"
+          },
+          {
+            "answer_id": 10,
+            "answer": "justo sollicitudin ut suscipit a feugiat et eros vestibulum"
+          },
+          {
+            "answer_id": 11,
+            "answer": "eleifend luctus ultricies eu"
+          },
+          {
+            "answer_id": 12,
+            "answer": "nulla neque libero convallis eget eleifend"
+          }
+        ]
+      },
+      {
+        "question_id": 4,
+        "question": "platea dictumst maecenas ut massa",
+        "user_voted": false,
+        "answers": [
+          {
+            "answer_id": 13,
+            "answer": "et magnis dis parturient"
+          },
+          {
+            "answer_id": 14,
+            "answer": "sed augue aliquam erat volutpat in congue"
+          },
+          {
+            "answer_id": 15,
+            "answer": "nulla integer pede justo lacinia eget tincidunt eget tempus"
+          },
+          {
+            "answer_id": 16,
+            "answer": "consequat lectus in est"
+          },
+          {
+            "answer_id": 17,
+            "answer": "morbi quis tortor id nulla ultrices aliquet maecenas"
+          },
+          {
+            "answer_id": 18,
+            "answer": "volutpat dui maecenas tristique est et tempus"
+          }
+        ]
+      },
+      {
+        "question_id": 5,
+        "question": "erat fermentum justo nec",
+        "user_voted": false,
+        "answers": [
+          {
+            "answer_id": 19,
+            "answer": "sapien urna pretium nisl ut volutpat sapien arcu sed"
+          },
+          {
+            "answer_id": 20,
+            "answer": "ultrices libero non mattis pulvinar nulla"
+          },
+          {
+            "answer_id": 21,
+            "answer": "faucibus orci luctus et ultrices posuere cubilia curae"
+          },
+          {
+            "answer_id": 22,
+            "answer": "sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt"
+          },
+          {
+            "answer_id": 23,
+            "answer": "vel est donec odio"
+          },
+          {
+            "answer_id": 24,
+            "answer": "in congue etiam justo etiam pretium"
+          },
+          {
+            "answer_id": 25,
+            "answer": "nulla mollis molestie lorem quisque ut"
+          },
+          {
+            "answer_id": 26,
+            "answer": "eros suspendisse accumsan tortor quis turpis sed"
+          },
+          {
+            "answer_id": 27,
+            "answer": "lobortis ligula sit amet eleifend pede"
+          },
+          {
+            "answer_id": 28,
+            "answer": "sapien a libero nam dui proin"
+          }
+        ]
+      },
+      {
+        "question_id": 6,
+        "question": "lectus pellentesque eget nunc donec quis orci eget",
+        "user_voted": true,
+        "answers": [
+          {
+            "answer_id": 29,
+            "answer": "turpis nec euismod scelerisque quam"
+          },
+          {
+            "answer_id": 30,
+            "answer": "id nisl venenatis lacinia aenean sit"
+          },
+          {
+            "answer_id": 31,
+            "answer": "cubilia curae duis faucibus accumsan"
+          },
+          {
+            "answer_id": 32,
+            "answer": "ut massa volutpat convallis morbi odio odio elementum eu interdum"
+          },
+          {
+            "answer_id": 33,
+            "answer": "rhoncus aliquam lacus morbi quis"
+          },
+          {
+            "answer_id": 34,
+            "answer": "pede libero quis orci"
+          },
+          {
+            "answer_id": 35,
+            "answer": "vulputate vitae nisl aenean lectus pellentesque eget nunc"
+          },
+          {
+            "answer_id": 36,
+            "answer": "sagittis sapien cum sociis natoque penatibus"
+          },
+          {
+            "answer_id": 37,
+            "answer": "nunc proin at turpis"
+          }
+        ]
+      },
+      {
+        "question_id": 7,
+        "question": "aliquet at feugiat non pretium",
+        "user_voted": false,
+        "answers": [
+          {
+            "answer_id": 38,
+            "answer": "faucibus accumsan odio curabitur convallis"
+          },
+          {
+            "answer_id": 39,
+            "answer": "molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget"
+          },
+          {
+            "answer_id": 40,
+            "answer": "ante ipsum primis in faucibus orci luctus et"
+          },
+          {
+            "answer_id": 41,
+            "answer": "vivamus vestibulum sagittis sapien cum sociis natoque penatibus"
+          },
+          {
+            "answer_id": 42,
+            "answer": "mattis pulvinar nulla pede"
+          }
+        ]
+      },
+      {
+        "question_id": 8,
+        "question": "sapien urna pretium nisl",
+        "user_voted": true,
+        "answers": [
+          {
+            "answer_id": 43,
+            "answer": "cubilia curae duis faucibus accumsan"
+          },
+          {
+            "answer_id": 44,
+            "answer": "lobortis ligula sit amet eleifend pede"
+          },
+          {
+            "answer_id": 45,
+            "answer": "pretium iaculis justo in hac habitasse platea dictumst etiam faucibus"
+          },
+          {
+            "answer_id": 46,
+            "answer": "ornare imperdiet sapien urna pretium nisl ut"
+          },
+          {
+            "answer_id": 47,
+            "answer": "sit amet diam in magna bibendum imperdiet nullam orci pede"
+          }
+        ]
+      },
+      {
+        "question_id": 9,
+        "question": "et ultrices posuere cubilia curae donec pharetra magna",
+        "user_voted": false,
+        "answers": [
+          {
+            "answer_id": 48,
+            "answer": "suscipit nulla elit ac"
+          },
+          {
+            "answer_id": 49,
+            "answer": "eget rutrum at lorem integer tincidunt ante vel"
+          },
+          {
+            "answer_id": 50,
+            "answer": "platea dictumst etiam faucibus cursus urna ut tellus"
+          },
+          {
+            "answer_id": 51,
+            "answer": "id justo sit amet sapien dignissim vestibulum vestibulum"
+          },
+          {
+            "answer_id": 52,
+            "answer": "integer ac leo pellentesque ultrices mattis"
+          },
+          {
+            "answer_id": 53,
+            "answer": "blandit lacinia erat vestibulum sed magna at nunc commodo placerat"
+          },
+          {
+            "answer_id": 54,
+            "answer": "sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at"
+          }
+        ]
+      },
+      {
+        "question_id": 10,
+        "question": "lectus in est risus auctor",
+        "user_voted": true,
+        "answers": [
+          {
+            "answer_id": 55,
+            "answer": "magnis dis parturient montes nascetur ridiculus mus etiam"
+          },
+          {
+            "answer_id": 56,
+            "answer": "neque libero convallis eget eleifend luctus ultricies"
+          },
+          {
+            "answer_id": 57,
+            "answer": "etiam vel augue vestibulum rutrum rutrum neque aenean auctor"
+          },
+          {
+            "answer_id": 58,
+            "answer": "quisque id justo sit amet sapien dignissim"
+          },
+          {
+            "answer_id": 59,
+            "answer": "vestibulum ante ipsum primis in faucibus orci luctus"
+          },
+          {
+            "answer_id": 60,
+            "answer": "varius integer ac leo pellentesque ultrices mattis"
+          },
+          {
+            "answer_id": 61,
+            "answer": "tempus vivamus in felis eu sapien cursus vestibulum proin"
+          },
+          {
+            "answer_id": 62,
+            "answer": "vivamus in felis eu sapien cursus"
+          },
+          {
+            "answer_id": 63,
+            "answer": "a libero nam dui proin leo odio"
+          }
+        ]
+      }
+    ]
+  }
+]
